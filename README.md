@@ -4,8 +4,6 @@
 Features:
 * Balaton: Tihany, Tiahnyi Bencés Apátság
 * Balaton: Tapolcai, Tapolcai-tavasbarlang
-* Visegrád
-* Budapest Zoo
 * Budapest Heroes Squary
 * Budapest Ferris Wheel
 * Budapest Margaret Island
